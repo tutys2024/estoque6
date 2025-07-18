@@ -4,7 +4,7 @@ Este projeto foi configurado para ser hospedado no GitHub Pages. Siga os passos 
 
 ## Configurações Realizadas
 
-1. **vite.config.js**: Adicionada configuração `base: '/estoque-gav-pwa/'` para funcionar corretamente no GitHub Pages
+1. **vite.config.js**: Adicionada configuração `base: '/estoque6/'` para funcionar corretamente no GitHub Pages
 2. **package.json**: Adicionado script `deploy` e dependência `gh-pages`
 3. **GitHub Actions**: Criado workflow automático para deploy em `.github/workflows/deploy.yml`
 
@@ -32,11 +32,11 @@ Este projeto foi configurado para ser hospedado no GitHub Pages. Siga os passos 
 ## URL do Site
 
 Após o deploy, seu site estará disponível em:
-`https://[seu-usuario].github.io/estoque-gav-pwa/`
+`https://tutys2024.github.io/estoque6/`
 
 ## Observações Importantes
 
-- O nome do repositório deve ser `estoque-gav-pwa` para que as configurações funcionem corretamente
+- O nome do repositório deve ser `estoque6` para que as configurações funcionem corretamente
 - Se você mudar o nome do repositório, atualize a propriedade `base` no `vite.config.js`
 - Certifique-se de que o repositório seja público ou tenha GitHub Pages habilitado para repositórios privados
 
