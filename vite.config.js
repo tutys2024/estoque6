@@ -11,6 +11,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: '/estoque6/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
